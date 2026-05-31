@@ -6,7 +6,7 @@ Good, that gives a complete picture of what still reads from `config.json` at ru
 
 ### Overview of the data model after these changes
 
-There are now **Three categories of configuration**:
+There are now **Three 4  of configuration**:
 
 ---
 

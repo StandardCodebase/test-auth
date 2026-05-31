@@ -103,12 +103,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "something-got-added.md",
+                    "file": "testing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "something-got-added"
+                  "title": "testing"
                 }
               }
             ],
@@ -343,13 +343,13 @@
   },
   "active": "fc5ddb3eb0f630b5",
   "lastOpenFiles": [
+    "testing.md",
     "something-got-added.md",
     "TESTING A NEW CHANGE.md",
     "Project-RED.md",
     "added-this-to-test-sync.md",
     "nigerian-Prince.md",
     "Prince.md",
-    "testin.md",
     "man.md",
     "Untitled.base",
     "A Signed File.md",
